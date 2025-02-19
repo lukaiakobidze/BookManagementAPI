@@ -1,0 +1,34 @@
+## Windows ##
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+## User-specific files ##
+# User-specific files for Visual Studio
+.vs/
+.vscode/
+.idea/
+
+## .NET Core ##
+# Build results
+bin/
+obj/
+
+# User secrets
+secrets.json
+
+# Uncomment if you have projects that use NuGet packages
+# .nuget/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+## ASP.NET Core ##
+# Temporary files
+tmp/
+
+## Logs ##
+*.log
